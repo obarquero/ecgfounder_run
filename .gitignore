@@ -1,0 +1,8 @@
+
+.ipynb_checkpoints/finetune_ECGFounder-checkpoint.ipynb
+__pycache__/dataset.cpython-311.pyc
+__pycache__/finetune_model.cpython-311.pyc
+__pycache__/net1d.cpython-311.pyc
+__pycache__/util.cpython-311.pyc
+checkpoint/12_lead_ECGFounder.pth
+checkpoint/1_lead_ECGFounder.pth
