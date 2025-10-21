@@ -6,3 +6,12 @@ __pycache__/net1d.cpython-311.pyc
 __pycache__/util.cpython-311.pyc
 checkpoint/12_lead_ECGFounder.pth
 checkpoint/1_lead_ECGFounder.pth
+physionet.org/files/mimic-iv-ecg/1.0/index.html
+physionet.org/files/mimic-iv-ecg/1.0/LICENSE.txt
+physionet.org/files/mimic-iv-ecg/1.0/machine_measurements.csv
+physionet.org/files/mimic-iv-ecg/1.0/machine_measurements_data_dictionary.csv
+physionet.org/files/mimic-iv-ecg/1.0/record_list.csv
+physionet.org/files/mimic-iv-ecg/1.0/RECORDS
+physionet.org/files/mimic-iv-ecg/1.0/SHA256SUMS.txt
+physionet.org/robots.txt
+wget.log
